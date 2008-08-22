@@ -14,4 +14,4 @@ Disclaimer
 
 Use the scripts found in this repository at your own risk. You should always review the contents of these files before putting them to use. Think of them as examples for your inspiration.
 
-The IIS AD ASP script is the original Zendesk implementation. This is what you should use for inspiration, and is considered the updated de facto  implementation.
+The IIS AD ASP script is the original Zendesk implementation. This is what you should use for inspiration, and is considered the updated reference  implementation.
