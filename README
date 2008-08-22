@@ -1,0 +1,9 @@
+
+About this repository 
+=====================
+
+This repository contains implementations for supporting Zendesk remote authentication against various backends. Feel free to fork, add, edit and delete - and submit a pull request if you think your changes can be of value to others.
+
+You can read more about the fundamentals of Zendesk remote authentication here:
+http://www.zendesk.com/api/remote_authentication
+
